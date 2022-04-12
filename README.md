@@ -11,5 +11,5 @@ Node.js 16.13.0
 Para instalar as dependências do projeto:
 >npm install
 
-Para subir a aplicação, clonar o repositório e rodar o comando na pasta raiz:
+Para subir a aplicação:
 >npm start

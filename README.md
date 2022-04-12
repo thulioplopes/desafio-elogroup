@@ -4,6 +4,10 @@
 
 Implementação do desafio técnico proposto durante o processo seletivo de estagiário da empresa EloGroup.
 
-## Scripts
+## Requisitos
+Node.js
 
+## Utilização
+
+Para subir a aplicação, clonar o repositório e rodar o comando na pasta raiz
 >npm start

@@ -1,0 +1,21 @@
+.flex-center{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.labels{
+  margin-right: auto;
+  padding-left: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+.fields-signup{
+  align-items: start;
+}
+.inputs{
+  padding: 0.5rem;
+  border-radius: 6px;
+  width: 100%;
+}
+.div-inputs{
+  padding: 2rem 4rem;
+}

@@ -1,0 +1,58 @@
+.div-wid-50{
+  display: flex;
+  flex-direction: column;
+  flex: 2;
+}
+.col-2{
+  width: 75%;
+}
+.form-container{
+  display: flex;
+}
+.header-new-lead{
+  display: flex;
+}
+.col-oportunidades{
+  padding: 1rem;
+  border: 1px solid black;
+}
+.line:nth-child(odd) {
+  background-color: #CCC;
+}
+.header-oportunidades{
+  background-color: gray;
+  color: white;
+}
+.table-oportunidades{
+  width: 55%;
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin-right: 4rem;
+}
+.padding-table{
+  padding: 1rem;
+}
+
+.panel-title-new-lead{
+  margin: 2rem 0;
+  font-weight: 400;
+}
+.btn-save-lead{
+  width: 55%;
+  font-size: 14px;
+  border-radius: 6px;
+  color: white;
+  border: none;
+  background-color: dodgerblue;
+  padding: 1rem 3rem;
+  margin-right: 4rem;
+  margin-top: 3rem;
+}
+.oportunidades-title{
+  margin-bottom: 1rem;
+  font-weight: 400;
+}
+.div-inputs-new-lead{
+  width: 65%;
+  margin-left: 8rem;
+}

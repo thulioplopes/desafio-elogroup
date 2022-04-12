@@ -1,0 +1,15 @@
+.lead-card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  padding: 2rem 0;
+}
+.btn-advance-card{
+  width: 50%;
+  text-align: center;
+  align-self: center;
+  margin-top: 1rem;
+  background-color: dodgerblue;
+  border: none;
+  color: white;
+}

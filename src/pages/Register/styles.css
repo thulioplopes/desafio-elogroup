@@ -1,0 +1,22 @@
+.border-box{
+  padding: 2rem;
+  align-items: start;
+  margin-left: 40px;
+  border: 1px solid black;
+  margin-top: 3rem;
+}
+.btn-signup{
+  width: 100%;
+  border-radius: 6px;
+  margin: 2rem 0;
+  padding: 1rem;
+  background-color: white;
+  border: 1px solid;
+}
+.div-btn{
+  padding: 0 4rem;
+}
+.span-required{
+  padding: 0 3.5rem;
+  color: red;
+}
